@@ -1,5 +1,4 @@
 # AI Artist Agent with AI16Z Framework for Twitter Interaction and Blockchain Integration
-![7df24373dddc3215f7ec42025a9cd93](https://github.com/user-attachments/assets/d863ebf7-eea6-435f-b698-c584447e5fbf)
 
 ## Project Overview
 
@@ -69,11 +68,6 @@ Follow these instructions to get the project up and running.
 2. **Node.js** and **npm** – For managing blockchain interactions.
 3. **Solana Wallet** – Phantom or any other wallet to interact with Solana.
 4. **Twitter Developer Account** – To access Twitter API keys.
-
-
-# agent-twitter-client
-
-This is a modified version of [@the-convocation/twitter-scraper](https://github.com/the-convocation/twitter-scraper) with added functionality for sending tweets and retweets. This package does not require the Twitter API to use and will run in both the browser and server.
 
 ## Installation
 
